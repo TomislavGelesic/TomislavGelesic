@@ -1,4 +1,4 @@
-# <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji"> Welcome to My GitHub Profile!
+# <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji"> Welcome!
 
 Hi there! I am Tomislav, a passionate developer who loves creating clean, efficient code and learning new technologies.<br>
 In free time I like to play chess to keep the working temperature high.<br> 
