@@ -1,4 +1,4 @@
-# <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji"> Welcome!
+<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji">
 
 I am Tomislav - a passionate developer who loves creating clean, efficient code and learn new technologies along the way.<br>
 This is the way, but:<br>
