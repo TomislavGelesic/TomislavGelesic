@@ -5,7 +5,7 @@ This is the way, but:<br>
 - Chess is cheaper than therapy and keeps my CPU running hot. 🤓 ♟️ <br>
 - I often dive into books and thought‑provoking posts — keeping my curiosity in shape. 🔍 📘 <br>
 
-Below you can find out about my experience(s) as professional iOS developer and path I took to evolve over time.
+Below you can find out more about my experience(s) as professional iOS developer and path I took to evolve over time.
 
 ---
 
